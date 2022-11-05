@@ -96,3 +96,4 @@ const Taps = ({ tap }) => {
 };
 
 export default Detail;
+
